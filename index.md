@@ -1,1 +1,1 @@
-Two-player battleship game. Players will pass the computer back and forth and guess the coordinates of their opponent's ships. Instructions will appear on the welcome screen and more info can be found in the README.
+Two-player battleship game. Players will pass the computer back and forth and guess the coordinates of their opponent's ships. Instructions will appear on the welcome screen. More info can be found in the README.
